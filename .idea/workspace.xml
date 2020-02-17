@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6928e9e8-b8f5-4f67-a8bb-d2b7e4e4b77d" name="Default Changelist" comment="" />
+    <list default="true" id="6928e9e8-b8f5-4f67-a8bb-d2b7e4e4b77d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XwmYbveliO76n1ksVtrnyBKN5s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,6 +47,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1208" y="89" key="#Notifications" timestamp="1581966627071">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1208" y="89" key="#Notifications/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581966627071" />
     <state x="-1008" y="196" key="FileChooserDialogImpl" timestamp="1581965619121">
       <screen x="-1600" y="0" width="1600" height="860" />
     </state>
@@ -60,9 +71,17 @@
       <screen x="-1600" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="220" key="GridCell.Tab.0.right/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581965735946" />
-    <state x="-1299" y="73" key="SettingsEditor" timestamp="1581965731946">
+    <state x="-1401" y="65" key="SettingsEditor" timestamp="1581967180432">
       <screen x="-1600" y="0" width="1600" height="860" />
     </state>
-    <state x="-1299" y="73" key="SettingsEditor/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581965731946" />
+    <state x="-1401" y="65" key="SettingsEditor/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581967180432" />
+    <state x="-1018" y="222" key="git4idea.merge.GitPullDialog" timestamp="1581966968387">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1018" y="222" key="git4idea.merge.GitPullDialog/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581966968387" />
+    <state x="-990" y="295" key="git4idea.rebase.GitRebaseDialog" timestamp="1581966929247">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-990" y="295" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581966929247" />
   </component>
 </project>
