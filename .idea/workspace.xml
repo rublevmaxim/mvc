@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6928e9e8-b8f5-4f67-a8bb-d2b7e4e4b77d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XwmYbveliO76n1ksVtrnyBKN5s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6928e9e8-b8f5-4f67-a8bb-d2b7e4e4b77d" name="Default Changelist" comment="" />
+      <created>1581965579850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581965579850</updated>
+      <workItem from="1581965587147" duration="294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1008" y="196" key="FileChooserDialogImpl" timestamp="1581965619121">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1008" y="196" key="FileChooserDialogImpl/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581965619121" />
+    <state width="1557" height="220" key="GridCell.Tab.0.bottom" timestamp="1581965735946">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581965735946" />
+    <state width="1557" height="220" key="GridCell.Tab.0.center" timestamp="1581965735946">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.center/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581965735946" />
+    <state width="1557" height="220" key="GridCell.Tab.0.left" timestamp="1581965735946">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.left/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581965735946" />
+    <state width="1557" height="220" key="GridCell.Tab.0.right" timestamp="1581965735946">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.right/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581965735946" />
+    <state x="-1299" y="73" key="SettingsEditor" timestamp="1581965731946">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1299" y="73" key="SettingsEditor/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1581965731946" />
+  </component>
+</project>
